@@ -1,0 +1,12 @@
+C:\Users\AAGMA\source\repos\rabbitmq\Publisher\obj\Debug\netcoreapp2.1\Publisher.csproj.CoreCompileInputs.cache
+C:\Users\AAGMA\source\repos\rabbitmq\Publisher\obj\Debug\netcoreapp2.1\Publisher.AssemblyInfoInputs.cache
+C:\Users\AAGMA\source\repos\rabbitmq\Publisher\obj\Debug\netcoreapp2.1\Publisher.AssemblyInfo.cs
+C:\Users\AAGMA\source\repos\rabbitmq\Publisher\bin\Debug\netcoreapp2.1\Publisher.deps.json
+C:\Users\AAGMA\source\repos\rabbitmq\Publisher\bin\Debug\netcoreapp2.1\Publisher.dll
+C:\Users\AAGMA\source\repos\rabbitmq\Publisher\bin\Debug\netcoreapp2.1\Publisher.pdb
+C:\Users\AAGMA\source\repos\rabbitmq\Publisher\bin\Debug\netcoreapp2.1\Service.dll
+C:\Users\AAGMA\source\repos\rabbitmq\Publisher\bin\Debug\netcoreapp2.1\Service.pdb
+C:\Users\AAGMA\source\repos\rabbitmq\Publisher\obj\Debug\netcoreapp2.1\Publisher.csprojAssemblyReference.cache
+C:\Users\AAGMA\source\repos\rabbitmq\Publisher\obj\Debug\netcoreapp2.1\Publisher.csproj.CopyComplete
+C:\Users\AAGMA\source\repos\rabbitmq\Publisher\obj\Debug\netcoreapp2.1\Publisher.dll
+C:\Users\AAGMA\source\repos\rabbitmq\Publisher\obj\Debug\netcoreapp2.1\Publisher.pdb
