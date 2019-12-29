@@ -1,0 +1,12 @@
+C:\Users\AAGMA\source\repos\rabbitmq\Consumer\obj\Debug\netcoreapp2.1\Consumer.csproj.CoreCompileInputs.cache
+C:\Users\AAGMA\source\repos\rabbitmq\Consumer\obj\Debug\netcoreapp2.1\Consumer.AssemblyInfoInputs.cache
+C:\Users\AAGMA\source\repos\rabbitmq\Consumer\obj\Debug\netcoreapp2.1\Consumer.AssemblyInfo.cs
+C:\Users\AAGMA\source\repos\rabbitmq\Consumer\bin\Debug\netcoreapp2.1\Consumer.deps.json
+C:\Users\AAGMA\source\repos\rabbitmq\Consumer\bin\Debug\netcoreapp2.1\Consumer.dll
+C:\Users\AAGMA\source\repos\rabbitmq\Consumer\bin\Debug\netcoreapp2.1\Consumer.pdb
+C:\Users\AAGMA\source\repos\rabbitmq\Consumer\bin\Debug\netcoreapp2.1\Service.dll
+C:\Users\AAGMA\source\repos\rabbitmq\Consumer\bin\Debug\netcoreapp2.1\Service.pdb
+C:\Users\AAGMA\source\repos\rabbitmq\Consumer\obj\Debug\netcoreapp2.1\Consumer.csprojAssemblyReference.cache
+C:\Users\AAGMA\source\repos\rabbitmq\Consumer\obj\Debug\netcoreapp2.1\Consumer.csproj.CopyComplete
+C:\Users\AAGMA\source\repos\rabbitmq\Consumer\obj\Debug\netcoreapp2.1\Consumer.dll
+C:\Users\AAGMA\source\repos\rabbitmq\Consumer\obj\Debug\netcoreapp2.1\Consumer.pdb
