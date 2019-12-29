@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RabbitMQ.Client" Version="5.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Consumer">
+      <HintPath>..\Consumer\bin\Debug\netcoreapp2.1\Consumer.dll</HintPath>
+    </Reference>
+    <Reference Include="Publisher">
+      <HintPath>..\Publisher\bin\Debug\netcoreapp2.1\Publisher.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
